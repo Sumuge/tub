@@ -1,0 +1,11 @@
+{
+    "name":"ji icons",
+    "description":"By chea08",
+    "icons":[
+      
+        {
+            "name":"byg",
+            "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/Terminus.png"
+        }
+    ]
+}
