@@ -1,1 +1,9 @@
-
+{
+"name":"emby", 
+"description":"by sumuge", 
+"icons":
+    [
+        {"name":"pr.png", "url":"https://github.com/Sumuge/tub/blob/main/tubiao/pr.png"},
+       
+    ]
+}
