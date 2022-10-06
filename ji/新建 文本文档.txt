@@ -5,7 +5,7 @@
       
         {
             "name":"byg",
-            "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/Terminus.png"
+            "url":"https://raw.github.com/Sumuge/tub/main/ji/byg.png"
         }
     ]
 }
