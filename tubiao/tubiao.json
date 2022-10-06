@@ -3,8 +3,8 @@
 "description":"by sumuge", 
 "icons":
     [
-        {"name":"pr.png", "url":"https://github.com/Sumuge/tub/blob/main/tubiao/pr.png"},
-        {"name":"byg.png", "url":"https://github.com/Sumuge/tub/blob/main/tubiao/byg.png"},
+        {"name":"pr.png", "url":"https://github.com/Sumuge/tub/main/tubiao/pr.png"},
+        {"name":"byg.png", "url":"https://github.com/Sumuge/tub/main/tubiao/byg.png"},
        
     ]
 }
