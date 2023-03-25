@@ -4,10 +4,8 @@
     "icons":[
       
         {
-            "name":"bbbs1",
-            "url":"https://raw.github.com/Sumuge/tub/main/ji/bbbs1.png"
-            "name":"bbbs2",
-            "url":"https://raw.github.com/Sumuge/tub/main/ji/bbbs2.png"
+            "name":"bbbs1","url":"https://raw.github.com/Sumuge/tub/main/ji/bbbs1.png"
+            "name":"bbbs2","url":"https://raw.github.com/Sumuge/tub/main/ji/bbbs2.png"
         }
     ]
 }
